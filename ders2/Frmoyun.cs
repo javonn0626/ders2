@@ -14,7 +14,7 @@ namespace ders2
     public partial class Frmoyun : Form
     {
         static int toplam = 0;
-        static int sure = 3;
+        static int sure = 30;
         Random rnd = new Random();
         public Frmoyun()
         {
